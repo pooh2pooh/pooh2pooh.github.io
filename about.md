@@ -2,7 +2,7 @@
 title: Love Linux
 permalink: /about/
 layout: page
-excerpt: Hi! I'm 25 years old. Incomplete higher education in the specialty «Information systems». I've been writing in PHP since about 2010. Administrator of the Russian Manjaro Linux community. Certified Internet marketer. For the last 4 years, worked in the field of advertising.
+excerpt: Hi! I'm 25 years old. Incomplete higher education in the specialty «Information systems». I've been writing in PHP and JS since about 2010. Administrator of the Russian Manjaro Linux community. Certified Internet marketer. For the last 4 years, worked in the field of advertising.
 comments: false
 ---
 
