@@ -6,7 +6,7 @@ excerpt: Hi! I'm 25 years old. Incomplete higher education in the specialty «In
 comments: false
 ---
 
-Hi! I'm 25 years old. Incomplete higher education in the specialty «Information systems». I've been writing in PHP and JS since about 2010. Administrator of the Russian <a target="_blank" href="https://manjaro.ru">Manjaro Linux community</a>. Certified Internet marketer. For the last 4 years, worked in the field of advertising.
+Hi! I'm 25 years old. Incomplete higher education in the specialty «Information systems». I've been writing in PHP and JS since about 2010. Administrator of the <a target="_blank" href="https://manjaro.ru">Russian Manjaro Linux community</a>. Certified Internet marketer. For the last 4 years, worked in the field of advertising.
 
 If you have any interesting ideas or suggestions, feel free to contact me.
 
