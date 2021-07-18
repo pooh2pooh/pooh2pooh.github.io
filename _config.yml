@@ -12,13 +12,13 @@ mode: dark # default theme "dark" | "light"
 author:
   name: I'm Pooh # author name
   bio: >- # tell to the world
-    PHP/MySQL, HTML/CSS + JavaScript
+    Developer from Russia, I am currently developing an application «Ulyana»
   username: Pooh Pooh # general username
   github: pooh2pooh # github username
   twitter: PoohTwoPooh # twitter username
   facebook: pooh2prod # facebook username
   email: pooh@poohprod.ru # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  avatar: assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
 url: "https://pooh2pooh.github.io" #
