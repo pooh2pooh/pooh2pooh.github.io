@@ -10,7 +10,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: I'm Pooh # author name
+  name: Pooh # author name
   bio: >- # tell to the world
     Developer from Russia
   username: Pooh Pooh # general username
