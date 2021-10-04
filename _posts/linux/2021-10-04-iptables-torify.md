@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  Пускаем весь трафик через сеть TOR с помощью iptables
-date:   2021-09-04 22:44:22 +0700
+date:   2021-10-04 22:44:22 +0700
 categories: linux
 ---
-Перенаправляем весь трафик через **TOR** с помощью **iptables**.
-
 Сам способ нашёл на ЛОРе.
 
 Правила взял отсюда https://trac.torproject.org/projects/tor/wiki/doc/TransparentProxy 
