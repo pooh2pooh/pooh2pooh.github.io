@@ -181,3 +181,6 @@ sudo chmod 4755 setgid_torify
 Итог (теория) `setgid_torify chromium --incognito` запускает chromium весь tcp и dns трафик которого идет через tor, весь остальной «дропается» 
 
 Итог (практика) заходим на browserleaks.com несмотря на то что flash полностью рабочий, «flash leak» не определяет наш настоящий ip (пишет торовский), webrtc leak аналогично
+
+### Видео
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/aRCCCnP8nCw/0.jpg)](http://www.youtube.com/watch?v=aRCCCnP8nCw "Анонимность TOR — удобно. Linux")
