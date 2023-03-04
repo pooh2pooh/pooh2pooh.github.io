@@ -19,7 +19,7 @@ All my personal projects are <a target="_blank" href="https://www.gnu.org/philos
 
 ### I write code.
 I'm proficient in the following programming languages, and familiar with many more:<br>
-`PHP`, `Shell`, `JavaScript`, `HTML / CSS`, `SQL`
+`PHP`, `Python`, `C/C++`, and `Shell`, `JavaScript`, `HTML / CSS`, `SQL`
 
 ### I am a total Unix nerd.
 As in software development: I tend to prefer the Unix principles of software design.<br>
