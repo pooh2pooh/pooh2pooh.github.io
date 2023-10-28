@@ -6,7 +6,7 @@ home: true
 <h3 class="posts-item-note" aria-label="Recent Posts">последние заметки</h3>
 {%- for post in site.posts limit: site.number_of_posts -%}
 <article class="post-item">
-  <h4 class="post-item-title">
+  <h4 class="post-item-title" style="line-height: 0.9;">
     <a href="{{ post.url }}" style="font-weight:bold;">{{ post.title | escape }}</a>
     <br>
     <small class="footer_copyright" style="font-weight:bold;">
@@ -15,6 +15,6 @@ home: true
       {% endif %}
     </small>
   </h4>
-  <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
+  <span class="post-item-date" style="float: right;">{{ post.date | date: "%b %d, %Y" }}</span>
 </article>
 {%- endfor -%}
