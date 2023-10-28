@@ -12,7 +12,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Pooh # author name
   bio: >- # tell to the world
-    про информационные технологии
+    
   username: Pooh Pooh # general username
   github: pooh2pooh # github username
   twitter: PoohTwoPooh # twitter username
