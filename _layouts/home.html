@@ -14,7 +14,7 @@ home: true
         {{ post.categories | first }}
       {% endif %}
     </small>
+    <span class="post-item-date" style="float: right;">{{ post.date | date: "%b %d, %Y" }}</span>
   </h4>
-  <span class="post-item-date" style="float: right;">{{ post.date | date: "%b %d, %Y" }}</span>
 </article>
 {%- endfor -%}

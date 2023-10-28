@@ -6,7 +6,7 @@ categories: linux
 ---
 Сам способ нашёл на ЛОРе.
 
-Правила взял отсюда https://trac.torproject.org/projects/tor/wiki/doc/TransparentProxy 
+Правила взял отсюда `https://trac.torproject.org/projects/tor/wiki/doc/TransparentProxy`
 
 Сделал фильтр по пользователям (убрал всю не OUTPUT цепочку к оставшимся правилам добавил фильтр по GID или UID на выбор) 
 
