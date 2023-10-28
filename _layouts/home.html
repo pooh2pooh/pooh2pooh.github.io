@@ -3,18 +3,18 @@ layout: default
 home: true
 ---
 
-<h3 class="posts-item-note" aria-label="Recent Posts">последние заметки</h3>
+<!-- <h3 class="posts-item-note" aria-label="Recent Posts">последние заметки</h3> -->
 {%- for post in site.posts limit: site.number_of_posts -%}
-<article class="post-item">
-  <h4 class="post-item-title" style="line-height: 0.9;">
+<article class="post-item" style="position: relative;">
+  <h4 class="post-item-title" style="line-height: 1;">
     <a href="{{ post.url }}" style="font-weight:bold;">{{ post.title | escape }}</a>
     <br>
-    <small class="footer_copyright" style="font-weight:bold;">
+    <small class="footer_copyright" style="color: #cfcfcf;">
       {% if post.categories.size > 0 %}
         {{ post.categories | first }}
       {% endif %}
     </small>
-    <span class="post-item-date" style="float: right;">{{ post.date | date: "%b %d, %Y" }}</span>
   </h4>
+  <span class="post-item-date" style="position: absolute; right: 0; font-size: 0.8em;">{{ post.date | date: "%b %d, %Y" }}</span>
 </article>
 {%- endfor -%}
