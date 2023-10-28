@@ -9,6 +9,8 @@ home: true
   <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
   <h4 class="post-item-title">
     <a href="{{ post.url }}">{{ post.title | escape }}</a>
+    <br>
+    <small class="footer_copyright">{{ post.category }}</small>
   </h4>
 </article>
 {%- endfor -%}
