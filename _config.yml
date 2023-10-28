@@ -12,7 +12,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Pooh # author name
   bio: >- # tell to the world
-    Разработка, GNU/Linux, и др.<br>В основном про информационные технологии.
+    Разработка, GNU/Linux, и др.<br>Блог про Информационные Технологии.
   username: Pooh Pooh # general username
   github: pooh2pooh # github username
   twitter: PoohTwoPooh # twitter username
